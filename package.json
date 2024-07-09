@@ -1,0 +1,13 @@
+{
+	"name": "web-worker-polyfill",
+	"version": "1.0.0",
+	"description": "Web Worker API polyfill for Node.js",
+	"main": "index.js",
+	"type": "module",
+	"scripts": {
+		"node": "node example/main.js",
+		"web": "pnpx serve"
+	},
+	"author": "Mu-Tsun Tsai <don.m.t.tsai@gmail.com>",
+	"license": "MIT"
+}
